@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ritesh\\source\\repos\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj": {}
+    "C:\\Users\\Ritesh\\Desktop\\Docker\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ritesh\\source\\repos\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj": {
+    "C:\\Users\\Ritesh\\Desktop\\Docker\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ritesh\\source\\repos\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Ritesh\\Desktop\\Docker\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj",
         "projectName": "WebAppDockerDemo",
-        "projectPath": "C:\\Users\\ritesh\\source\\repos\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj",
-        "packagesPath": "C:\\Users\\ritesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ritesh\\source\\repos\\WebAppDockerDemo\\WebAppDockerDemo\\obj\\",
+        "projectPath": "C:\\Users\\Ritesh\\Desktop\\Docker\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj",
+        "packagesPath": "C:\\Users\\Ritesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ritesh\\Desktop\\Docker\\WebAppDockerDemo\\WebAppDockerDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ritesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ritesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

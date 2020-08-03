@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\ritesh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ritesh\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\ritesh\\.nuget\\packages"
     ]
   }

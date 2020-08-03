@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RwUQJpWJvXTfyDJlIkdOWtoI6zsKMI42k01kCb1SHezUwC4UBqVIYqfW9gNQsphOASNsB9Y/3UogQcuR66n1dA==",
+  "dgSpecHash": "Eq2SxrYW81BloBvDORg0jJPY7kWgHSkqeaMUCEokeifGfrfHF45ZeI0NRh84Jx8rQRp9NAvlXPooLrgeEZPCSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ritesh\\source\\repos\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj",
+  "projectFilePath": "C:\\Users\\Ritesh\\Desktop\\Docker\\WebAppDockerDemo\\WebAppDockerDemo\\WebAppDockerDemo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ritesh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\Ritesh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
   "logs": []
 }
